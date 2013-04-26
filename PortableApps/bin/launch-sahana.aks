@@ -1,0 +1,14 @@
+; Launch the portable Sahana instance
+; Author: Chamindra de Silva (http://chamindra.googlepages.com)
+; Copyright Lanka Software Foundation
+
+#SingleInstance force
+SplashImage, splash.bmp, b, Welcome to Sahana 
+run ..\PStart.exe, , Hide
+run kill-sahana.bat, , Hide
+Sleep 1000
+run ..\SahanaPortable2\alternative_control\Start_Server.bat, ..\SahanaPortable2, Hide
+Sleep 3000
+SplashImage, Off
+
+ExitApp

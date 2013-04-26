@@ -1,0 +1,428 @@
+091110 23:14:30 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:14:30 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:14:30 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:14:30 [Note] Plugin 'InnoDB' is disabled.
+091110 23:14:30 [Note] Plugin 'InnoDB' is disabled.
+091110 23:14:30 [Note] Plugin 'InnoDB' is disabled.
+Can't start server: Bind on TCP/IP port: No such file or directory
+091110 23:14:31 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+091110 23:14:31 [ERROR] Aborting
+
+091110 23:14:31 [Warning] Forcing shutdown of 2 plugins
+Can't start server: Bind on TCP/IP port: No such file or directory
+091110 23:14:31 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+091110 23:14:31 [ERROR] Aborting
+
+091110 23:14:31 [Warning] Forcing shutdown of 2 plugins
+091110 23:14:31 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+091110 23:14:31 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+091110 23:14:31 [Note] Event Scheduler: Loaded 0 events
+091110 23:14:31 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:22:34 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:22:34 [Note] Plugin 'InnoDB' is disabled.
+091110 23:22:35 [Note] Event Scheduler: Loaded 0 events
+091110 23:22:35 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:30:55 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:30:55 [Note] Plugin 'InnoDB' is disabled.
+091110 23:30:55 [Note] Event Scheduler: Loaded 0 events
+091110 23:30:55 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:31:39 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:31:39 [Note] Plugin 'InnoDB' is disabled.
+091110 23:31:39 [Note] Event Scheduler: Loaded 0 events
+091110 23:31:39 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:32:26 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:32:26 [Note] Plugin 'InnoDB' is disabled.
+091110 23:32:26 [Note] Event Scheduler: Loaded 0 events
+091110 23:32:26 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:44:52 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:44:52 [Note] Plugin 'InnoDB' is disabled.
+091110 23:44:52 [Note] Event Scheduler: Loaded 0 events
+091110 23:44:52 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:53:19 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:53:20 [Note] Plugin 'InnoDB' is disabled.
+091110 23:53:20 [Note] Event Scheduler: Loaded 0 events
+091110 23:53:20 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1-pre-inst/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091110 23:55:31 [Note] Plugin 'FEDERATED' is disabled.
+091110 23:55:32 [Note] Plugin 'InnoDB' is disabled.
+091110 23:55:33 [Note] Event Scheduler: Loaded 0 events
+091110 23:55:33 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  0:00:38 [Note] Plugin 'FEDERATED' is disabled.
+091111  0:00:38 [Note] Plugin 'InnoDB' is disabled.
+091111  0:00:38 [Note] Event Scheduler: Loaded 0 events
+091111  0:00:38 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  1:37:31 [Note] Plugin 'FEDERATED' is disabled.
+091111  1:37:31 [Note] Plugin 'InnoDB' is disabled.
+091111  1:37:32 [Note] Event Scheduler: Loaded 0 events
+091111  1:37:32 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  1:53:09 [Note] Plugin 'FEDERATED' is disabled.
+091111  1:53:09 [Note] Plugin 'InnoDB' is disabled.
+091111  1:53:09 [Note] Event Scheduler: Loaded 0 events
+091111  1:53:09 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  1:56:23 [Note] Plugin 'FEDERATED' is disabled.
+091111  1:56:23 [Note] Plugin 'InnoDB' is disabled.
+091111  1:56:23 [Note] Event Scheduler: Loaded 0 events
+091111  1:56:23 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  1:58:55 [Note] Plugin 'FEDERATED' is disabled.
+091111  1:58:55 [Note] Plugin 'InnoDB' is disabled.
+091111  1:58:55 [Note] Event Scheduler: Loaded 0 events
+091111  1:58:55 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:00:04 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:00:04 [Note] Plugin 'InnoDB' is disabled.
+091111  2:00:04 [Note] Event Scheduler: Loaded 0 events
+091111  2:00:04 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:00:52 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:00:52 [Note] Plugin 'InnoDB' is disabled.
+091111  2:00:52 [Note] Event Scheduler: Loaded 0 events
+091111  2:00:52 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:02:04 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:02:04 [Note] Plugin 'InnoDB' is disabled.
+091111  2:02:04 [Note] Event Scheduler: Loaded 0 events
+091111  2:02:04 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:02:51 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:02:51 [Note] Plugin 'InnoDB' is disabled.
+091111  2:02:52 [Note] Event Scheduler: Loaded 0 events
+091111  2:02:52 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:17:41 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:17:41 [Note] Plugin 'InnoDB' is disabled.
+091111  2:17:41 [Note] Event Scheduler: Loaded 0 events
+091111  2:17:41 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.1/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:40:07 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:40:07 [Note] Plugin 'InnoDB' is disabled.
+091111  2:40:10 [Note] Event Scheduler: Loaded 0 events
+091111  2:40:10 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111  2:41:12 [Note] Plugin 'FEDERATED' is disabled.
+091111  2:41:12 [Note] Plugin 'InnoDB' is disabled.
+091111  2:41:13 [Note] Event Scheduler: Loaded 0 events
+091111  2:41:13 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111 18:20:49 [Note] Plugin 'FEDERATED' is disabled.
+091111 18:20:49 [Note] Plugin 'InnoDB' is disabled.
+091111 18:20:51 [Note] Event Scheduler: Loaded 0 events
+091111 18:20:51 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091111 22:50:57 [Note] Plugin 'FEDERATED' is disabled.
+091111 22:50:57 [Note] Plugin 'InnoDB' is disabled.
+091111 22:50:59 [Note] Event Scheduler: Loaded 0 events
+091111 22:50:59 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091112  0:45:18 [Note] Plugin 'FEDERATED' is disabled.
+091112  0:45:18 [Note] Plugin 'InnoDB' is disabled.
+091112  0:45:18 [Note] Event Scheduler: Loaded 0 events
+091112  0:45:18 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091112 11:08:21 [Note] Plugin 'FEDERATED' is disabled.
+091112 11:08:21 [Note] Plugin 'InnoDB' is disabled.
+091112 11:08:23 [Note] Event Scheduler: Loaded 0 events
+091112 11:08:23 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091113  0:21:09 [Note] Plugin 'FEDERATED' is disabled.
+091113  0:21:09 [Note] Plugin 'InnoDB' is disabled.
+091113  0:21:11 [Note] Event Scheduler: Loaded 0 events
+091113  0:21:11 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091113  9:26:25 [Note] Plugin 'FEDERATED' is disabled.
+091113  9:26:25 [Note] Plugin 'InnoDB' is disabled.
+091113  9:26:26 [Note] Event Scheduler: Loaded 0 events
+091113  9:26:26 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091113 14:33:21 [Note] Plugin 'FEDERATED' is disabled.
+091113 14:33:21 [Note] Plugin 'InnoDB' is disabled.
+091113 14:33:21 [Note] Event Scheduler: Loaded 0 events
+091113 14:33:21 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091113 16:14:55 [Note] Plugin 'FEDERATED' is disabled.
+091113 16:14:55 [Note] Plugin 'InnoDB' is disabled.
+091113 16:14:56 [Note] Event Scheduler: Loaded 0 events
+091113 16:14:56 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091114 13:41:54 [Note] Plugin 'FEDERATED' is disabled.
+091114 13:41:54 [Note] Plugin 'InnoDB' is disabled.
+091114 13:41:55 [Note] Event Scheduler: Loaded 0 events
+091114 13:41:55 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091116  8:54:37 [Note] Plugin 'FEDERATED' is disabled.
+091116  8:54:37 [Note] Plugin 'InnoDB' is disabled.
+091116  8:54:37 [Note] Event Scheduler: Loaded 0 events
+091116  8:54:37 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091117  7:44:41 [Note] Plugin 'FEDERATED' is disabled.
+091117  7:44:41 [Note] Plugin 'InnoDB' is disabled.
+091117  7:44:41 [Note] Event Scheduler: Loaded 0 events
+091117  7:44:41 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091118  8:13:17 [Note] Plugin 'FEDERATED' is disabled.
+091118  8:13:17 [Note] Plugin 'InnoDB' is disabled.
+091118  8:13:18 [Note] Event Scheduler: Loaded 0 events
+091118  8:13:18 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+091119  8:03:16 [Note] Plugin 'FEDERATED' is disabled.
+091119  8:03:16 [Note] Plugin 'InnoDB' is disabled.
+091119  8:03:19 [Note] Event Scheduler: Loaded 0 events
+091119  8:03:19 [Note] C:/chamindra-de-silva-confidential/sahana/sahana-relief/sahana-relief-portable-0.2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100716 16:42:51 [Note] Plugin 'FEDERATED' is disabled.
+100716 16:42:51 [Note] Plugin 'InnoDB' is disabled.
+100716 16:42:51 [Note] Event Scheduler: Loaded 0 events
+100716 16:42:51 [Note] E:/Sahana/sahana-relief02-portable-final/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100719 14:19:10 [Note] Plugin 'FEDERATED' is disabled.
+100719 14:19:10 [Note] Plugin 'InnoDB' is disabled.
+100719 14:19:10 [Note] Event Scheduler: Loaded 0 events
+100719 14:19:10 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100719 16:33:56 [Note] Plugin 'FEDERATED' is disabled.
+100719 16:33:56 [Note] Plugin 'InnoDB' is disabled.
+100719 16:33:56 [Note] Event Scheduler: Loaded 0 events
+100719 16:33:56 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100719 16:38:14 [Note] Plugin 'FEDERATED' is disabled.
+100719 16:38:14 [Note] Plugin 'InnoDB' is disabled.
+100719 16:38:14 [Note] Event Scheduler: Loaded 0 events
+100719 16:38:14 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100719 16:38:38 [Note] Plugin 'FEDERATED' is disabled.
+100719 16:38:38 [Note] Plugin 'InnoDB' is disabled.
+100719 16:38:38 [Note] Event Scheduler: Loaded 0 events
+100719 16:38:38 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100719 16:39:57 [Note] Plugin 'FEDERATED' is disabled.
+100719 16:39:57 [Note] Plugin 'InnoDB' is disabled.
+100719 16:39:58 [Note] Event Scheduler: Loaded 0 events
+100719 16:39:58 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100730 22:11:59 [Note] Plugin 'FEDERATED' is disabled.
+100730 22:11:59 [Note] Plugin 'InnoDB' is disabled.
+100730 22:11:59 [Note] Event Scheduler: Loaded 0 events
+100730 22:11:59 [Note] E:/Sahana/sahana-0.6.4-portable/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100730 22:16:18 [Note] Plugin 'FEDERATED' is disabled.
+100730 22:16:18 [Note] Plugin 'InnoDB' is disabled.
+100730 22:16:18 [Note] Event Scheduler: Loaded 0 events
+100730 22:16:18 [Note] E:/Sahana/sahana-0.6.4-portable/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100730 22:39:19 [Note] Plugin 'FEDERATED' is disabled.
+100730 22:39:19 [Note] Plugin 'InnoDB' is disabled.
+100730 22:39:19 [Note] Event Scheduler: Loaded 0 events
+100730 22:39:19 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100730 22:46:55 [Note] Plugin 'FEDERATED' is disabled.
+100730 22:46:55 [Note] Plugin 'InnoDB' is disabled.
+100730 22:46:55 [Note] Event Scheduler: Loaded 0 events
+100730 22:46:55 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100810 10:50:12 [Note] Plugin 'FEDERATED' is disabled.
+100810 10:50:12 [Note] Plugin 'InnoDB' is disabled.
+100810 10:50:12 [Note] Event Scheduler: Loaded 0 events
+100810 10:50:12 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  0:27:03 [Note] Plugin 'FEDERATED' is disabled.
+100911  0:27:03 [Note] Plugin 'InnoDB' is disabled.
+100911  0:27:03 [Note] Event Scheduler: Loaded 0 events
+100911  0:27:03 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:48:02 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:48:02 [Note] Plugin 'InnoDB' is disabled.
+100911  2:48:02 [Note] Event Scheduler: Loaded 0 events
+100911  2:48:02 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:50:06 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:50:06 [Note] Plugin 'InnoDB' is disabled.
+100911  2:50:06 [Note] Event Scheduler: Loaded 0 events
+100911  2:50:06 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:50:54 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:50:54 [Note] Plugin 'InnoDB' is disabled.
+100911  2:50:54 [Note] Event Scheduler: Loaded 0 events
+100911  2:50:54 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:52:39 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:52:39 [Note] Plugin 'InnoDB' is disabled.
+100911  2:52:40 [Note] Event Scheduler: Loaded 0 events
+100911  2:52:40 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:53:02 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:53:02 [Note] Plugin 'InnoDB' is disabled.
+100911  2:53:02 [Note] Event Scheduler: Loaded 0 events
+100911  2:53:02 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  2:55:41 [Note] Plugin 'FEDERATED' is disabled.
+100911  2:55:41 [Note] Plugin 'InnoDB' is disabled.
+100911  2:55:41 [Note] Event Scheduler: Loaded 0 events
+100911  2:55:41 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  3:01:11 [Note] Plugin 'FEDERATED' is disabled.
+100911  3:01:11 [Note] Plugin 'InnoDB' is disabled.
+100911  3:01:12 [Note] Event Scheduler: Loaded 0 events
+100911  3:01:12 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  3:07:40 [Note] Plugin 'FEDERATED' is disabled.
+100911  3:07:40 [Note] Plugin 'InnoDB' is disabled.
+100911  3:07:40 [Note] Event Scheduler: Loaded 0 events
+100911  3:07:40 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  3:15:29 [Note] Plugin 'FEDERATED' is disabled.
+100911  3:15:29 [Note] Plugin 'InnoDB' is disabled.
+100911  3:15:29 [Note] Event Scheduler: Loaded 0 events
+100911  3:15:29 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  3:27:42 [Note] Plugin 'FEDERATED' is disabled.
+100911  3:27:42 [Note] Plugin 'InnoDB' is disabled.
+100911  3:27:42 [Note] Event Scheduler: Loaded 0 events
+100911  3:27:42 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  3:30:05 [Note] Plugin 'FEDERATED' is disabled.
+100911  3:30:05 [Note] Plugin 'InnoDB' is disabled.
+100911  3:30:05 [Note] Event Scheduler: Loaded 0 events
+100911  3:30:05 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  4:16:17 [Note] Plugin 'FEDERATED' is disabled.
+100911  4:16:17 [Note] Plugin 'InnoDB' is disabled.
+100911  4:16:17 [Note] Event Scheduler: Loaded 0 events
+100911  4:16:17 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  4:18:34 [Note] Plugin 'FEDERATED' is disabled.
+100911  4:18:34 [Note] Plugin 'InnoDB' is disabled.
+100911  4:18:34 [Note] Event Scheduler: Loaded 0 events
+100911  4:18:34 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  4:20:54 [Note] Plugin 'FEDERATED' is disabled.
+100911  4:20:54 [Note] Plugin 'InnoDB' is disabled.
+100911  4:20:54 [Note] Event Scheduler: Loaded 0 events
+100911  4:20:54 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  4:31:13 [Note] Plugin 'FEDERATED' is disabled.
+100911  4:31:13 [Note] Plugin 'InnoDB' is disabled.
+100911  4:31:13 [Note] Event Scheduler: Loaded 0 events
+100911  4:31:13 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  4:52:53 [Note] Plugin 'FEDERATED' is disabled.
+100911  4:52:53 [Note] Plugin 'InnoDB' is disabled.
+100911  4:52:53 [Note] Event Scheduler: Loaded 0 events
+100911  4:52:53 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  5:01:19 [Note] Plugin 'FEDERATED' is disabled.
+100911  5:01:19 [Note] Plugin 'InnoDB' is disabled.
+100911  5:01:19 [Note] Event Scheduler: Loaded 0 events
+100911  5:01:19 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  5:02:17 [Note] Plugin 'FEDERATED' is disabled.
+100911  5:02:17 [Note] Plugin 'InnoDB' is disabled.
+100911  5:02:17 [Note] Event Scheduler: Loaded 0 events
+100911  5:02:17 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  5:03:18 [Note] Plugin 'FEDERATED' is disabled.
+100911  5:03:18 [Note] Plugin 'InnoDB' is disabled.
+100911  5:03:18 [Note] Event Scheduler: Loaded 0 events
+100911  5:03:18 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100911  5:32:38 [Note] Plugin 'FEDERATED' is disabled.
+100911  5:32:38 [Note] Plugin 'InnoDB' is disabled.
+100911  5:32:38 [Note] Event Scheduler: Loaded 0 events
+100911  5:32:38 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 10:43:53 [Note] Plugin 'FEDERATED' is disabled.
+100912 10:43:53 [Note] Plugin 'InnoDB' is disabled.
+100912 10:43:54 [Note] Event Scheduler: Loaded 0 events
+100912 10:43:54 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 11:47:00 [Note] Plugin 'FEDERATED' is disabled.
+100912 11:47:00 [Note] Plugin 'InnoDB' is disabled.
+100912 11:47:00 [Note] Event Scheduler: Loaded 0 events
+100912 11:47:00 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 12:56:54 [Note] Plugin 'FEDERATED' is disabled.
+100912 12:56:54 [Note] Plugin 'InnoDB' is disabled.
+100912 12:56:54 [Note] Event Scheduler: Loaded 0 events
+100912 12:56:54 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 13:10:53 [Note] Plugin 'FEDERATED' is disabled.
+100912 13:10:53 [Note] Plugin 'InnoDB' is disabled.
+100912 13:10:53 [Note] Event Scheduler: Loaded 0 events
+100912 13:10:53 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 13:18:51 [Note] Plugin 'FEDERATED' is disabled.
+100912 13:18:51 [Note] Plugin 'InnoDB' is disabled.
+100912 13:18:51 [Note] Event Scheduler: Loaded 0 events
+100912 13:18:51 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:01:31 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:01:31 [Note] Plugin 'InnoDB' is disabled.
+100912 14:01:31 [Note] Event Scheduler: Loaded 0 events
+100912 14:01:31 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:31:53 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:31:53 [Note] Plugin 'InnoDB' is disabled.
+100912 14:31:53 [Note] Event Scheduler: Loaded 0 events
+100912 14:31:53 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:32:25 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:32:25 [Note] Plugin 'InnoDB' is disabled.
+100912 14:32:25 [Note] Event Scheduler: Loaded 0 events
+100912 14:32:25 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:32:48 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:32:48 [Note] Plugin 'InnoDB' is disabled.
+100912 14:32:48 [Note] Event Scheduler: Loaded 0 events
+100912 14:32:48 [Note] E:/Sahana/sahana-0.6.4-portable/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:38:34 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:38:34 [Note] Plugin 'InnoDB' is disabled.
+100912 14:38:34 [Note] Event Scheduler: Loaded 0 events
+100912 14:38:34 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:41:37 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:41:37 [Note] Plugin 'InnoDB' is disabled.
+100912 14:41:37 [Note] Event Scheduler: Loaded 0 events
+100912 14:41:37 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 14:57:57 [Note] Plugin 'FEDERATED' is disabled.
+100912 14:57:57 [Note] Plugin 'InnoDB' is disabled.
+100912 14:57:57 [Note] Event Scheduler: Loaded 0 events
+100912 14:57:57 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 15:04:36 [Note] Plugin 'FEDERATED' is disabled.
+100912 15:04:36 [Note] Plugin 'InnoDB' is disabled.
+100912 15:04:36 [Note] Event Scheduler: Loaded 0 events
+100912 15:04:36 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 15:11:25 [Note] Plugin 'FEDERATED' is disabled.
+100912 15:11:25 [Note] Plugin 'InnoDB' is disabled.
+100912 15:11:25 [Note] Event Scheduler: Loaded 0 events
+100912 15:11:25 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 15:41:44 [Note] Plugin 'FEDERATED' is disabled.
+100912 15:41:44 [Note] Plugin 'InnoDB' is disabled.
+100912 15:41:44 [Note] Event Scheduler: Loaded 0 events
+100912 15:41:44 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 15:47:10 [Note] Plugin 'FEDERATED' is disabled.
+100912 15:47:10 [Note] Plugin 'InnoDB' is disabled.
+100912 15:47:10 [Note] Event Scheduler: Loaded 0 events
+100912 15:47:10 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+100912 16:06:37 [Note] Plugin 'FEDERATED' is disabled.
+100912 16:06:37 [Note] Plugin 'InnoDB' is disabled.
+100912 16:06:37 [Note] Event Scheduler: Loaded 0 events
+100912 16:06:37 [Note] E:/Sahana/sahana-agasti-portable2/PortableApps/SahanaPortable2/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.1.39-community'  socket: ''  port: 3306  MySQL Community Server (GPL)

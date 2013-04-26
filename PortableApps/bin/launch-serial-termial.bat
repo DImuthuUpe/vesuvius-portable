@@ -1,0 +1,1 @@
+serialterm.exe com7
